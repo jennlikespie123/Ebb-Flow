@@ -11,3 +11,5 @@ All of these suggestions create an equal web experience for all viewers; an oppo
 
 # About the Author
 
+Jenn Jones is sort of tall, and studying graphic design at Montserrat College of Art. She reigns from the Garden State where as a child she feast upon the greatest tasting corn in all of the United States, and eventually learned to inline skate. She wrote this amazing summary as a class assignment and no matter what time this is being read, is probably hoping to go to bed soon.
+
