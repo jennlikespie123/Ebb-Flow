@@ -1,5 +1,7 @@
 # *A Dao of Web Design Summary*
 
+<br />
+
 ![Alt Text](https://github.com/jennlikespie123/ebb-flow/blob/master/lao_big.jpg?raw=true)
 
 <br />
