@@ -10,7 +10,7 @@ All of these suggestions create an equal web experience for all viewers; an oppo
 
 
 *About the Author*
-![Alt Text](https://github.com/jennlikespie123/ebb-flow/blob/master/IMG_1246.JPG?raw=true)
+![Alt Text](https://github.com/jennlikespie123/ebb-flow/blob/master/IMG_1247.JPG?raw=true)
 
 > Jenn Jones is sort of tall, and studying graphic design 
 > at Montserrat College of Art. She reigns from the Garden 
