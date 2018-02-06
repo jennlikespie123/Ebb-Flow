@@ -9,7 +9,7 @@ One suggestion to reach the goal of a completley adaptive internet is to think a
 All of these suggestions create an equal web experience for all viewers; an opportunity we have on the design of web pages that we do not on tangible printed pages.
 
 
-# About the Author
+*About the Author*
 ![Alt Text](https://github.com/jennlikespie123/ebb-flow/blob/master/IMG_1246.JPG?raw=true)
 
 > Jenn Jones is sort of tall, and studying graphic design 
