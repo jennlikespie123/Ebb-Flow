@@ -8,10 +8,6 @@ One suggestion to reach the goal of a completley adaptive internet is to think a
 
 All of these suggestions create an equal web experience for all viewers; an opportunity we have on the design of web pages that we do not on tangible printed pages.
 
-<br />
-<br />
-<br />
-
 
 *__✨ About the Author✨__*
 
