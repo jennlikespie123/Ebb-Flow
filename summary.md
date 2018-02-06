@@ -10,6 +10,7 @@ All of these suggestions create an equal web experience for all viewers; an oppo
 
 <br />
 <br />
+<br />
 
 *__About the Author__*
 
