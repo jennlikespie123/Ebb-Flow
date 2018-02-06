@@ -12,6 +12,7 @@ All of these suggestions create an equal web experience for all viewers; an oppo
 <br />
 <br />
 
+
 *__✨ About the Author✨__*
 
 ![Alt Text](https://github.com/jennlikespie123/ebb-flow/blob/master/IMG_1225.JPG?raw=true)
