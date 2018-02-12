@@ -1,6 +1,6 @@
 # *A Dao of Web Design Summary*
 
-![Alt Text](https://github.com/jennlikespie123/ebb-flow/blob/master/lao%20big%20980.jpg?raw=true)
+![Alt Text](https://raw.githubusercontent.com/jennlikespie123/ebb-flow/master/lao%20big%20980.jpg)
 
 The article “A Dao of Web Design” written by John Allsopp compares the aspects of web design to the Chinese philosophy of Daoism, which encourages flexibility and harmony along one’s life path. Allsopp believes that many web pages are clinging too strongly to the ways of printed paper, when they have so much potential to be adapted to a user’s specific needs. This in short is Allsopp’s goal; for the Internet to be comprised of completely adaptive pages. 
 
