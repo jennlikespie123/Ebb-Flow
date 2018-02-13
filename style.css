@@ -1,1 +1,2 @@
-.selfie {float: left;}
+.selfie {float: left; width: 20%;}
+.bio {float: right; width: 80%;}
