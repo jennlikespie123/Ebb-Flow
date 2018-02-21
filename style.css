@@ -1,5 +1,5 @@
 .selfie {float: left; width: 20%;}
 .bio {float: right; width: 80%;}
 .about {text-align: center; font-family: serif; text-shadow: 2px 4px 10px red;}
-.photo {
+.photo {margin: auto;}
 .first {margin-left: auto;}
