@@ -1,23 +1,74 @@
-body {max-width: 960px; margin-left: auto; margin-right: auto}
-img {max-width: 100%}
+body {max-width: 960px; 
+margin-left: auto; 
+margin-right: auto
+}
+
+img {
+max-width: 100%
+}
 
 
-.title {text-align: center}
-.by {font-style: italic;text-align: center;}
+.title {
+text-align: center
+}
 
-.photo {text-align: center}
+.by {font-style: italic;
+text-align: center;
+}
 
-.first {line-height: 140%; margin: 50px; font-size: 110%; text-indent: 2.0em; text-align:justify}
-.second {line-height: 140%;margin: 50px;font-size: 110%; text-indent: 2.0em; text-align:justify}
-.third {line-height: 140%;margin: 50px;font-size: 110%; text-indent: 2.0em;text-align:justify}
+.photo {
+	text-align: center
+}
 
-.read {text-align: center;font-size: 110%}
+.first {
+	line-height: 150%; 
+	margin: 5px; 
+	font-size: 110%; 
+	text-indent: 2.0em; 
+	text-align:justify
+}
+
+.second {
+	line-height: 150%;
+	margin: 5px;
+	font-size: 110%; 
+	text-indent: 2.0em; 
+	text-align:justify
+}
+
+.third {
+line-height: 150%;
+margin: 5px;
+font-size: 110%; 
+text-indent: 2.0em;
+text-align:justify
+}
+
+.read {
+text-align: center;font-size: 110%}
 
 
-.about {text-align: center; font-family: serif; text-shadow: 2px 4px 10px #969582;font-size: 120%; w3-spin}
+.about {
+text-align: center; 
+font-family: serif; 
+text-shadow: 2px 4px 10px #969582;
+font-size: 120%; w3-spin
+}
 
-.selfie {max-width: 18%; float: left; padding-left: 55px;}
-.bio {float: right; line-height: 140%; text-indent: 2.0em; padding-right: 55px;  max-width: 650px; text-align:justify}
+.selfie {
+max-width: 18%; 
+float: left; 
+padding-left: 55px;
+}
+
+.bio {
+float: right;
+line-height: 140%; 
+text-indent: 2.0em; 
+padding-right: 55px;  
+max-width: 650px; 
+text-align:justify;
+}
 
 
 .footer {padding-bottom: 6cm}
