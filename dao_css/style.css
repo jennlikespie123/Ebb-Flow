@@ -124,5 +124,10 @@ text-align: center;
 
 .third {
 	font-size: 130%; 
-
+	}
 		}
+		
+		
+@media print {
+	font-size: 130%
+	}
